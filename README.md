@@ -46,7 +46,7 @@ Below is the summary of the scores for all the six machine learning models used 
 
 Out of the six models, the first four models are not as effective as the accuracy score is not as high in comparison to the two Ensemble classifier models. Moreover, for a lending company, high sensitivity/recall score is important as they would not want to lend to HIGH risk customers. As you can see in the above the SMOTEENN Combination Sampling model and Easy Ensemble AdaBoost Classifier model have higher sensitivity scores. 
 
-To conclude, I recommend using Easy Ensemble AdaBoost Classifier model to predict High credit Risk as it has highest sensitivity and accuracy scores. 
+To conclude, I _**recommend**_ using **Easy Ensemble AdaBoost Classifier model** to _**predict High Credit Risk**_ as it has highest sensitivity and accuracy scores. 
 
 ## Resources:
 Data source: 
